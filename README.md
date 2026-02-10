@@ -5,7 +5,7 @@ An NLP system that detects whether a given text is AI-generated or human-written
 using a fine-tuned BERT model. The project focuses on building an end-to-end
 machine learning pipeline with real-world evaluation and backend integration.
 
-## Tech Stack
+## Tech Stack 
 - Python
 - TensorFlow
 - HuggingFace Transformers
